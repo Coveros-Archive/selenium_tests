@@ -8,7 +8,8 @@
 <body>
 <table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
 <tr><td><b>Test Suite</b></td></tr>
-<tr><td><a href="hello_cheese_hello_bacon">hello_cheese_hello_bacon</a></td></tr>
+<tr><td><a href="../../../../Soft_Dev/Selenium_IDE/google_cheese">google_cheese</a></td></tr>
+<tr><td><a href="google_bacon">google_bacon</a></td></tr>
 </tbody></table>
 </body>
 </html>
